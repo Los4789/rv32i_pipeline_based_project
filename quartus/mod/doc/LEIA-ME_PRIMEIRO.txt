@@ -1,0 +1,19 @@
+PACOTE RV32I - REVISAO 1 + TESTBENCH
+Dispositivo: EP4CE115F29C7 (Cyclone IV E)
+Top-level: pl_top_no_pll (CLOCK_50 direto, 50 MHz)
+
+COMECE AQUI:
+1) Leia README_TESTES.md.
+2) Abra o ModelSim na pasta raiz deste pacote.
+3) Execute: do run_alu.do
+4) Execute: do run_modelsim.do
+
+Os fontes alterados possuem comentarios TODO explicando a mudanca.
+Em SystemVerilog os comentarios sao // TODO (...); em Tcl/QSF, # TODO (...).
+
+ATENCAO:
+Este pacote corrige problemas encontrados na revisao inicial e adiciona testes
+unitarios da ALU e teste de integracao para o programa hello.asm. Ele NAO declara
+as 37 instrucoes RV32I integralmente implementadas ou validadas. Consulte a secao
+Escopo do README_TESTES.md. A simulacao deve ser executada no ModelSim instalado
+na sua maquina e a compilacao final deve ser confirmada no Quartus antes da FPGA.
