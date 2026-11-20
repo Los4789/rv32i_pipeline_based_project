@@ -1,0 +1,123 @@
+D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_regfile.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_regfile.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_regfile
+
+Top level modules:
+	pl_regfile
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_pipe_pkg.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_pipe_pkg.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling package pl_pipe_pkg
+
+Top level modules:
+	--none--
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_cpu.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_cpu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_cpu
+
+Top level modules:
+	pl_cpu
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_imem.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_imem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_imem
+
+Top level modules:
+	pl_imem
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pll_10mhz.v {1 {vlog -work work -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pll_10mhz.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pll_10mhz
+
+Top level modules:
+	pll_10mhz
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_control.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_control.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_control
+
+Top level modules:
+	pl_control
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_hazard.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_hazard.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_hazard
+
+Top level modules:
+	pl_hazard
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_forward.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_forward.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_forward
+
+Top level modules:
+	pl_forward
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top_no_pll.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top_no_pll.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_top_no_pll
+
+Top level modules:
+	pl_top_no_pll
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu_ctrl.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu_ctrl.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_alu_ctrl
+
+Top level modules:
+	pl_alu_ctrl
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_datapath.sv {2 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_datapath.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+** Warning: D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_datapath.sv(25): (vlog-13233) Design unit "pl_datapath_sv_unit" already exists and will be overwritten. Overwriting SystemVerilog $unit with different source files.
+-- Compiling package pl_datapath_sv_unit
+-- Importing package pl_pipe_pkg
+-- Compiling module pl_datapath
+
+Top level modules:
+	pl_datapath
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_sign_ext.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_sign_ext.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_sign_ext
+
+Top level modules:
+	pl_sign_ext
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_mmio.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_mmio.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_mmio
+
+Top level modules:
+	pl_mmio
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_alu
+
+Top level modules:
+	pl_alu
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_dmem.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_dmem.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_dmem
+
+Top level modules:
+	pl_dmem
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_top
+
+Top level modules:
+	pl_top
+
+} {} {}} D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_uart.sv {1 {vlog -work work -sv -stats=none D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_uart.sv
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module pl_uart
+
+Top level modules:
+	pl_uart
+
+} {} {}}
