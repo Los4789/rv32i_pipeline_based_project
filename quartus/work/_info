@@ -1,0 +1,487 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus
+vpl_alu
+Z1 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z2 !s110 1794587322
+!i10b 1
+!s100 =CokjOkQ3_ZQPHBLjM5Oz2
+Z3 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IlV[FRTEVPP7ld^z^VAj?:1
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+S1
+R0
+Z5 w1794586000
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu.sv
+!i122 6
+L0 21 27
+Z6 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z7 !s108 1794587322.000000
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu.sv|
+!i113 1
+Z8 o-work work -sv
+Z9 tCvgOpt 0
+vpl_alu_ctrl
+R1
+R2
+!i10b 1
+!s100 Gn5Q@P?QnXR5Ph;^Ybm]_2
+R3
+IAIhTUQ;WG`>QU7kl4NLFE0
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu_ctrl.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu_ctrl.sv
+!i122 7
+L0 10 46
+R6
+r1
+!s85 0
+31
+R7
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu_ctrl.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_alu_ctrl.sv|
+!i113 1
+R8
+R9
+vpl_control
+R1
+Z10 !s110 1794587323
+!i10b 1
+!s100 9Qm=mFOmEPOQaaiknJM2c1
+R3
+IZAHhKhCXD=ERQQR45Zm=23
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_control.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_control.sv
+!i122 8
+L0 29 90
+R6
+r1
+!s85 0
+31
+Z11 !s108 1794587323.000000
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_control.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_control.sv|
+!i113 1
+R8
+R9
+vpl_cpu
+R1
+R10
+!i10b 1
+!s100 fCYh>FJ]lcz:>7;L^jXHO2
+R3
+I^J5JM4DVkMl]<ZlVXDJUK1
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_cpu.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_cpu.sv
+!i122 9
+L0 20 102
+R6
+r1
+!s85 0
+31
+R11
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_cpu.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_cpu.sv|
+!i113 1
+R8
+R9
+vpl_datapath
+R1
+Z12 DXx4 work 11 pl_pipe_pkg 0 22 ;GN4]OO7N:K@6[T^aZo<Y3
+DXx4 work 19 pl_datapath_sv_unit 0 22 ]4F];en<hL1e:U8HWE:f<1
+R10
+R4
+r1
+!s85 0
+!i10b 1
+!s100 z@h[21f>YjE5:GaYD8gbP2
+If?P]e6>VBgQ=fa]<A5[]31
+!s105 pl_datapath_sv_unit
+S1
+R0
+R5
+Z13 8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_datapath.sv
+Z14 FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_datapath.sv
+!i122 10
+L0 27 424
+R6
+31
+R11
+Z15 !s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_datapath.sv|
+Z16 !s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_datapath.sv|
+!i113 1
+R8
+R9
+Xpl_datapath_sv_unit
+R1
+R12
+R10
+V]4F];en<hL1e:U8HWE:f<1
+r1
+!s85 0
+!i10b 1
+!s100 G`JmHn?GKb@Lie:=AfOii3
+I]4F];en<hL1e:U8HWE:f<1
+!i103 1
+S1
+R0
+R5
+R13
+R14
+!i122 10
+L0 25 0
+R6
+31
+R11
+R15
+R16
+!i113 1
+R8
+R9
+vpl_dmem
+R1
+R10
+!i10b 1
+!s100 f64?>elz3W@VnRUbE_TBc0
+R3
+I^cH6;h@zhc;DXiFZh:=K;1
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_dmem.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_dmem.sv
+!i122 11
+L0 16 29
+R6
+r1
+!s85 0
+31
+R11
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_dmem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_dmem.sv|
+!i113 1
+R8
+R9
+vpl_forward
+R1
+R10
+!i10b 1
+!s100 eGX[`U1]HkJMNe=TC;D[a3
+R3
+IczePWkzC35on^i8N4:5F02
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_forward.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_forward.sv
+!i122 12
+L0 16 22
+R6
+r1
+!s85 0
+31
+R11
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_forward.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_forward.sv|
+!i113 1
+R8
+R9
+vpl_hazard
+R1
+R10
+!i10b 1
+!s100 AS3oI=?gT1B^KiR2iRV[41
+R3
+IKLzc[aFFok]@K7;c`En852
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_hazard.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_hazard.sv
+!i122 13
+L0 16 31
+R6
+r1
+!s85 0
+31
+R11
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_hazard.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_hazard.sv|
+!i113 1
+R8
+R9
+vpl_imem
+R1
+R10
+!i10b 1
+!s100 oABL1GICWn@lo6@F3XNdV2
+R3
+I2b8R8K[V9fz<zGGGH=Re50
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_imem.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_imem.sv
+!i122 14
+L0 15 17
+R6
+r1
+!s85 0
+31
+R11
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_imem.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_imem.sv|
+!i113 1
+R8
+R9
+vpl_mmio
+R1
+R10
+!i10b 1
+!s100 XD4PcVno^35n6RX0i^il_1
+R3
+ImO^UZHDRLUmK<A>><5H6m2
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_mmio.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_mmio.sv
+!i122 15
+L0 25 144
+R6
+r1
+!s85 0
+31
+R11
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_mmio.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_mmio.sv|
+!i113 1
+R8
+R9
+Xpl_pipe_pkg
+R1
+Z17 !s110 1794587324
+!i10b 1
+!s100 `]9]PbkgG]>07^]iTHkGM1
+R3
+INFzfF2:K]oT8_f]z65^YP2
+VNFzfF2:K]oT8_f]z65^YP2
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_pipe_pkg.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_pipe_pkg.sv
+!i122 16
+L0 12 0
+R6
+r1
+!s85 0
+31
+R11
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_pipe_pkg.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_pipe_pkg.sv|
+!i113 1
+R8
+R9
+vpl_regfile
+R1
+R17
+!i10b 1
+!s100 >oY<oZn`fHGC@zaaz49:=2
+R3
+IG]VZDXBRZamgG^7S=?AC81
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_regfile.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_regfile.sv
+!i122 17
+L0 23 24
+R6
+r1
+!s85 0
+31
+Z18 !s108 1794587324.000000
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_regfile.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_regfile.sv|
+!i113 1
+R8
+R9
+vpl_sign_ext
+R1
+R17
+!i10b 1
+!s100 M5g7boM0G30;b2z9=?@ZS3
+R3
+I>J9PU01obZ4A:T9o`jM<f0
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_sign_ext.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_sign_ext.sv
+!i122 18
+L0 14 38
+R6
+r1
+!s85 0
+31
+R18
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_sign_ext.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_sign_ext.sv|
+!i113 1
+R8
+R9
+vpl_top
+R1
+R17
+!i10b 1
+!s100 aMNVzla[AbNg4<0aH1NP=0
+R3
+I2la6?D>J6WQHCSdL3zY>]0
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top.sv
+!i122 19
+L0 22 49
+R6
+r1
+!s85 0
+31
+R18
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top.sv|
+!i113 1
+R8
+R9
+vpl_top_no_pll
+R1
+R17
+!i10b 1
+!s100 hK3e7Ia9n6i0H^Hf>[dg91
+R3
+IEb54C4O=Pc@?02ohiVSKX2
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top_no_pll.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top_no_pll.sv
+!i122 20
+L0 32 37
+R6
+r1
+!s85 0
+31
+R18
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top_no_pll.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_top_no_pll.sv|
+!i113 1
+R8
+R9
+vpl_uart
+R1
+R17
+!i10b 1
+!s100 9XlJ5PceYE83[FC1O3m5>1
+R3
+IWXY?jE64[mnGARAzoKUXc3
+R4
+S1
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_uart.sv
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_uart.sv
+!i122 21
+L0 30 209
+R6
+r1
+!s85 0
+31
+R18
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_uart.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pl_uart.sv|
+!i113 1
+R8
+R9
+vpll_10mhz
+R17
+!i10b 1
+!s100 VdaY7@nX3527oNRIT22N70
+R3
+I@jkbeI>E1O7h=cHBHfbo_1
+R4
+R0
+R5
+8D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pll_10mhz.v
+FD:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pll_10mhz.v
+!i122 22
+L0 14 104
+R6
+r1
+!s85 0
+31
+R18
+!s107 D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pll_10mhz.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/Users/rsm7/Documents/rv32i_pipelined_base_project/quartus/pll_10mhz.v|
+!i113 1
+o-work work
+R9
+vtb_stage3_advanced
+R1
+!s110 1794587061
+!i10b 1
+!s100 M12Bb3_@_^6LJ8=cKH86:1
+R3
+I[f;:J6]LjgQPB1@OLST2W1
+R4
+S1
+R0
+R5
+8./tb/tb_stage3_advanced.sv
+F./tb/tb_stage3_advanced.sv
+!i122 5
+L0 3 107
+R6
+r1
+!s85 0
+31
+!s108 1794587061.000000
+!s107 ./tb/tb_stage3_advanced.sv|
+!s90 -reportprogress|300|-sv|./tb/tb_stage3_advanced.sv|
+!i113 1
+o-sv
+R9
